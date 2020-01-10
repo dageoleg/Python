@@ -1,0 +1,30 @@
+Help:
+git <command> --help
+
+Clone the repository:
+git clone https://github.com/aanikin/Python.git
+
+Pull changes from repository:
+git pull
+
+Add files:
+git add test.py
+git add Test/test.py  (git don't add empty filders)
+
+Add all files:
+git add .
+
+Commit changes:
+git commit -m "Clear comment should be here"
+
+Push changes:
+Better pull changes before:
+git pull
+
+git push  
+
+Status:
+git status
+
+ 
+
